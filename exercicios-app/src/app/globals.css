@@ -25,3 +25,11 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.vermelha {
+  background-color: crimson;
+}
+
+.azul {
+  background-color: blue;
+}

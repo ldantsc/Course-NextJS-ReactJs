@@ -1,0 +1,22 @@
+/* .modules.css o css estará especificamente vinculado a um componente*/
+
+#integracao2 {
+ height: 100vh;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+}
+
+.vermelha {
+    color: #f30;
+}
+
+.azul {
+    color:#03f;
+}
+
+.branco {
+    background-color: #444;
+    color: #fff;
+}
